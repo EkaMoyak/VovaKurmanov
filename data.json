@@ -1,0 +1,113 @@
+{
+    "transactions": [
+        {
+            "type": "Доход",
+            "category": "Зарплата",
+            "amount": 100000.0,
+            "date": "2025-04-25",
+            "description": ""
+        },
+        {
+            "type": "Расход",
+            "category": "Еда",
+            "amount": 2000.0,
+            "date": "2025-04-25",
+            "description": "ресторан"
+        },
+        {
+            "type": "Расход",
+            "category": "Образование",
+            "amount": 30000.0,
+            "date": "2025-04-25",
+            "description": ""
+        },
+        {
+            "type": "Доход",
+            "category": "Зарплата",
+            "amount": 100000.0,
+            "date": "2025-04-25",
+            "description": ""
+        },
+        {
+            "type": "Доход",
+            "category": "Фриланс",
+            "amount": 10000.0,
+            "date": "2025-04-25",
+            "description": "ресторан"
+        },
+        {
+            "type": "Расход",
+            "category": "Образование",
+            "amount": 30000.0,
+            "date": "2025-04-25",
+            "description": ""
+        },
+        {
+            "type": "Доход",
+            "category": "Фриланс",
+            "amount": 10.0,
+            "date": "2025-04-25",
+            "description": ""
+        },
+        {
+            "type": "Доход",
+            "category": "",
+            "amount": 10000.0,
+            "date": "2025-04-26",
+            "description": ""
+        },
+        {
+            "type": "Доход",
+            "category": "Фриланс",
+            "amount": 1000.0,
+            "date": "2025-04-26",
+            "description": ""
+        },
+        {
+            "type": "Расход",
+            "category": "Еда",
+            "amount": 10.0,
+            "date": "2025-05-14",
+            "description": ""
+        },
+        {
+            "type": "Доход",
+            "category": "Зарплата",
+            "amount": 10.0,
+            "date": "2025-04-25",
+            "description": ""
+        },
+        {
+            "type": "Доход",
+            "category": "Фриланс",
+            "amount": 1000000.0,
+            "date": "2025-04-25",
+            "description": "ресторан"
+        },
+        {
+            "type": "Расход",
+            "category": "Образование",
+            "amount": 30000.0,
+            "date": "2025-04-25",
+            "description": ""
+        }
+    ],
+    "budget_limits": {},
+    "saving_goals": [
+        {
+            "name": "",
+            "amount": 1111.0,
+            "target_date": "2025-06-13",
+            "saved": 0.0
+        }
+    ],
+    "regular_payments": [
+        {
+            "name": "",
+            "amount": 10000.0,
+            "category": "Еда",
+            "frequency": "Ежемесячно",
+            "last_paid": null
+        }
+    ]
+}
