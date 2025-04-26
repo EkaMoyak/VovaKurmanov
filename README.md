@@ -1,4 +1,4 @@
-# VovaKurmanov
+Курманов Вова
 
 # SmartBudgetApp
 
